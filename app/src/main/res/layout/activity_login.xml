@@ -1,51 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
-xmlns:app="http://schemas.android.com/apk/res-auto"
-xmlns:tools="http://schemas.android.com/tools"
-android:layout_width="match_parent"
-android:layout_height="match_parent"
-android:orientation="vertical"
-tools:context="com.example.mikhal.wiseatapp.Login">
-
-<LinearLayout
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
-    android:layout_height="wrap_content"
-    android:layout_centerInParent="true"
+    android:layout_height="match_parent"
     android:orientation="vertical"
-    android:id="@+id/linearLayout">
+    tools:context="com.example.mikhal.wiseatapp.Login">
 
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="300dp"
+        android:layout_height="300dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        app:srcCompat="@drawable/app_logo" />
     <Button
-
         android:id="@+id/btnFacebook"
-        style="@style/com_facebook_button"
-        android:layout_width="match_parent"
+        android:layout_width="250dp"
         android:layout_height="wrap_content"
-        android:layout_alignParentStart="true"
-        android:layout_below="@+id/imageView3"
+        android:layout_below="@+id/textView"
+        android:layout_centerHorizontal="true"
         android:layout_gravity="center_vertical"
-        android:backgroundTint="@color/colorPrimary"
-        android:text="Facebook" />
+        android:background="@drawable/rounded_corner_fb_btn"
+        android:elevation="0dp"
+        android:fontFamily="casual"
+        android:padding="15dp"
+        android:text="Log in with Facebook"
+        android:textColor="@android:color/white"
+        android:textStyle="bold" />
 
     <Button
 
         android:id="@+id/btnGoogle"
-        style="@style/Widget.AppCompat.Button.Colored"
-        android:layout_width="match_parent"
+        android:layout_width="250dp"
         android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
         android:layout_gravity="center_vertical"
-        android:backgroundTint="@color/common_google_signin_btn_text_light_default"
-        android:text="Google" />
+        android:layout_marginBottom="53dp"
+        android:background="@drawable/rounded_corner_gg_btn"
+        android:elevation="0dp"
+        android:fontFamily="casual"
+        android:padding="15dp"
+        android:text="Log in with Google"
+        android:textColor="@android:color/white"
+        android:textSize="14sp"
+        android:textStyle="bold" />
 
+    <ImageView
+        android:id="@+id/imageView4"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_alignBottom="@+id/btnGoogle"
+        android:layout_alignStart="@+id/btnGoogle"
+        android:layout_marginStart="6dp"
+        app:srcCompat="@drawable/ggl_login" />
 
-</LinearLayout>
+    <ImageView
+        android:id="@+id/imageView6"
+        android:layout_width="50dp"
+        android:layout_height="52dp"
+        android:layout_alignBottom="@+id/btnFacebook"
+        android:layout_alignStart="@+id/btnFacebook"
+        app:srcCompat="@drawable/fb_login" />
 
-<ImageView
-    android:id="@+id/imageView6"
-    android:layout_width="wrap_content"
-    android:layout_height="wrap_content"
-    android:layout_above="@+id/linearLayout"
-    android:layout_alignParentEnd="true"
-    app:srcCompat="@drawable/wiseat_logo" />
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/imageView3"
+        android:layout_centerHorizontal="true"
+        android:fontFamily="casual"
+        android:text="Welcome to WisEat, an app that helps you consume smarter :)"
+        android:textAlignment="center"
+        android:textColor="@color/colorPrimaryDark"
+        android:textSize="18sp"
+        android:textStyle="bold" />
 
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="15dp"
+        android:text="© 20182W71. All rights reserved."
+        android:textColor="@color/com_facebook_button_background_color_focused_disabled" />
 
 </RelativeLayout>
