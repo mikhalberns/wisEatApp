@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Android\\Android Studio Project\\wisEatApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v12\\values-v12.xml",
+            "outputFile": "D:\\Android Studio Projects\\wisEatApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v12\\values-v12.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\netab\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\25fc30b9d83871bd3664ef5eb7d6c477\\res\\values-v12\\values-v12.xml",
+                    "source": "C:\\Users\\Neta\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\c11bcec92dfe57b1c2c7de33ab72d8e2\\res\\values-v12\\values-v12.xml",
                     "from": {
                         "startLines": "2,5,8,9",
                         "startColumns": "4,4,4,4",

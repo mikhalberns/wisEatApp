@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Android\\Android Studio Project\\wisEatApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v23\\values-v23.xml",
+            "outputFile": "D:\\Android Studio Projects\\wisEatApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v23\\values-v23.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\netab\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\25fc30b9d83871bd3664ef5eb7d6c477\\res\\values-v23\\values-v23.xml",
+                    "source": "C:\\Users\\Neta\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\c11bcec92dfe57b1c2c7de33ab72d8e2\\res\\values-v23\\values-v23.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,19,32,33,34,35,36",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
@@ -15,7 +15,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\netab\\.gradle\\caches\\transforms-1\\files-1.1\\cardview-v7-25.0.0.aar\\d1f7b1da11b1688eae9b1b5f823066bf\\res\\values-v23\\values-v23.xml",
+                    "source": "C:\\Users\\Neta\\.gradle\\caches\\transforms-1\\files-1.1\\cardview-v7-25.0.0.aar\\d63569dc07e6552b2df868351d3526f3\\res\\values-v23\\values-v23.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

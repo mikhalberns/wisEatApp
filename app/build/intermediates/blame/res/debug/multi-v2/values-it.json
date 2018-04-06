@@ -1,29 +1,27 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Android\\Android Studio Project\\wisEatApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-it\\values-it.xml",
+            "outputFile": "D:\\Android Studio Projects\\wisEatApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-it\\values-it.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\netab\\.gradle\\caches\\transforms-1\\files-1.1\\tweet-ui-2.3.2.aar\\c8d97834cdec5a5cd76b942718c7e312\\res\\values-it\\values-it.xml",
+                    "source": "C:\\Users\\Neta\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-10.2.1.aar\\eb945a87e01706371da014e3fe409dbc\\res\\values-it\\values.xml",
                     "from": {
-                        "startLines": "2,6,10,14,15,16,17,18,19,20,21,22,23,24,25,26,27",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,187,318,449,516,577,654,698,745,809,874,920,991,1118,1194,1254,1330",
-                        "endLines": "5,9,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27",
-                        "endColumns": "14,14,14,66,60,76,43,46,63,64,45,70,126,75,59,75,63",
-                        "endOffsets": "182,313,444,511,572,649,693,740,804,869,915,986,1113,1189,1249,1325,1389"
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "285",
+                        "endColumns": "194",
+                        "endOffsets": "479"
                     },
                     "to": {
-                        "startLines": "2,6,10,80,81,82,86,87,89,90,91,92,93,96,97,98,99",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,237,368,7524,7591,7652,7905,7949,8046,8110,8175,8221,8292,8812,8888,8948,9024",
-                        "endLines": "5,9,13,80,81,82,86,87,89,90,91,92,93,96,97,98,99",
-                        "endColumns": "14,14,14,66,60,76,43,46,63,64,45,70,126,75,59,75,63",
-                        "endOffsets": "232,363,494,7586,7647,7724,7944,7991,8105,8170,8216,8287,8414,8883,8943,9019,9083"
+                        "startLines": "64",
+                        "startColumns": "4",
+                        "startOffsets": "5555",
+                        "endColumns": "194",
+                        "endOffsets": "5745"
                     }
                 },
                 {
-                    "source": "C:\\Users\\netab\\.gradle\\caches\\transforms-1\\files-1.1\\facebook-android-sdk-4.20.0.aar\\cc894dde47a9cb3b1054c23f395e78e9\\res\\values-it\\values-it.xml",
+                    "source": "C:\\Users\\Neta\\.gradle\\caches\\transforms-1\\files-1.1\\facebook-android-sdk-4.20.0.aar\\af0c2fe5147e984756d6ef2b28d82ad9\\res\\values-it\\values-it.xml",
                     "from": {
                         "startLines": "2,3,5,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -42,24 +40,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\netab\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-10.2.1.aar\\da22899cc67d984d0ff3033d6b98cb6b\\res\\values-it\\values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "285",
-                        "endColumns": "194",
-                        "endOffsets": "479"
-                    },
-                    "to": {
-                        "startLines": "64",
-                        "startColumns": "4",
-                        "startOffsets": "5555",
-                        "endColumns": "194",
-                        "endOffsets": "5745"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\netab\\.gradle\\caches\\transforms-1\\files-1.1\\tweet-composer-2.3.1.aar\\422eec461a791c0f4071a292fcc2a6f9\\res\\values-it\\values-it.xml",
+                    "source": "C:\\Users\\Neta\\.gradle\\caches\\transforms-1\\files-1.1\\tweet-composer-2.3.1.aar\\24eaf26b37ede435f2733bb92c879468\\res\\values-it\\values-it.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
@@ -76,24 +57,24 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\netab\\.gradle\\caches\\transforms-1\\files-1.1\\twitter-core-2.3.1.aar\\dad2e9c362f08f1bdef829612005af6c\\res\\values-it\\values-it.xml",
+                    "source": "C:\\Users\\Neta\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\c11bcec92dfe57b1c2c7de33ab72d8e2\\res\\values-it\\values-it.xml",
                     "from": {
-                        "startLines": "2,3,4,5,6",
-                        "startColumns": "4,4,4,4,4",
-                        "startOffsets": "55,110,175,234,544",
-                        "endColumns": "54,64,58,309,82",
-                        "endOffsets": "105,170,229,539,622"
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,164,272,395,495,604,688,797,922,999,1075,1156,1262,1370,1468,1572,1677,1784,1906,2006,2089",
+                        "endColumns": "108,107,122,99,108,83,108,124,76,75,80,105,107,97,103,104,106,121,99,82,100",
+                        "endOffsets": "159,267,390,490,599,683,792,917,994,1070,1151,1257,1365,1463,1567,1672,1779,1901,2001,2084,2185"
                     },
                     "to": {
-                        "startLines": "77,83,85,94,95",
-                        "startColumns": "4,4,4,4,4",
-                        "startOffsets": "7354,7729,7846,8419,8729",
-                        "endColumns": "54,64,58,309,82",
-                        "endOffsets": "7404,7789,7900,8724,8807"
+                        "startLines": "14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,75,76",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "499,608,716,839,939,1048,1132,1241,1366,1443,1519,1600,1706,1814,1912,2016,2121,2228,2350,7170,7253",
+                        "endColumns": "108,107,122,99,108,83,108,124,76,75,80,105,107,97,103,104,106,121,99,82,100",
+                        "endOffsets": "603,711,834,934,1043,1127,1236,1361,1438,1514,1595,1701,1809,1907,2011,2116,2223,2345,2445,7248,7349"
                     }
                 },
                 {
-                    "source": "C:\\Users\\netab\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-10.2.1.aar\\51e81ad550e9307181742286db7b3f91\\res\\values-it\\values.xml",
+                    "source": "C:\\Users\\Neta\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-10.2.1.aar\\5743cc6eab51e78e985b9b0e1f62d651\\res\\values-it\\values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
                         "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
@@ -110,20 +91,39 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\netab\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\25fc30b9d83871bd3664ef5eb7d6c477\\res\\values-it\\values-it.xml",
+                    "source": "C:\\Users\\Neta\\.gradle\\caches\\transforms-1\\files-1.1\\tweet-ui-2.3.2.aar\\5e09ce8e98ab8c8d6581a0b018a191f9\\res\\values-it\\values-it.xml",
                     "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,164,272,395,495,604,688,797,922,999,1075,1156,1262,1370,1468,1572,1677,1784,1906,2006,2089",
-                        "endColumns": "108,107,122,99,108,83,108,124,76,75,80,105,107,97,103,104,106,121,99,82,100",
-                        "endOffsets": "159,267,390,490,599,683,792,917,994,1070,1151,1257,1365,1463,1567,1672,1779,1901,2001,2084,2185"
+                        "startLines": "2,6,10,14,15,16,17,18,19,20,21,22,23,24,25,26,27",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,187,318,449,516,577,654,698,745,809,874,920,991,1118,1194,1254,1330",
+                        "endLines": "5,9,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27",
+                        "endColumns": "14,14,14,66,60,76,43,46,63,64,45,70,126,75,59,75,63",
+                        "endOffsets": "182,313,444,511,572,649,693,740,804,869,915,986,1113,1189,1249,1325,1389"
                     },
                     "to": {
-                        "startLines": "14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,75,76",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "499,608,716,839,939,1048,1132,1241,1366,1443,1519,1600,1706,1814,1912,2016,2121,2228,2350,7170,7253",
-                        "endColumns": "108,107,122,99,108,83,108,124,76,75,80,105,107,97,103,104,106,121,99,82,100",
-                        "endOffsets": "603,711,834,934,1043,1127,1236,1361,1438,1514,1595,1701,1809,1907,2011,2116,2223,2345,2445,7248,7349"
+                        "startLines": "2,6,10,80,81,82,86,87,89,90,91,92,93,96,97,98,99",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,237,368,7524,7591,7652,7905,7949,8046,8110,8175,8221,8292,8812,8888,8948,9024",
+                        "endLines": "5,9,13,80,81,82,86,87,89,90,91,92,93,96,97,98,99",
+                        "endColumns": "14,14,14,66,60,76,43,46,63,64,45,70,126,75,59,75,63",
+                        "endOffsets": "232,363,494,7586,7647,7724,7944,7991,8105,8170,8216,8287,8414,8883,8943,9019,9083"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Neta\\.gradle\\caches\\transforms-1\\files-1.1\\twitter-core-2.3.1.aar\\27eb8b3ae6c35e1511447410288a469b\\res\\values-it\\values-it.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,110,175,234,544",
+                        "endColumns": "54,64,58,309,82",
+                        "endOffsets": "105,170,229,539,622"
+                    },
+                    "to": {
+                        "startLines": "77,83,85,94,95",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "7354,7729,7846,8419,8729",
+                        "endColumns": "54,64,58,309,82",
+                        "endOffsets": "7404,7789,7900,8724,8807"
                     }
                 }
             ]

@@ -1,27 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Android\\Android Studio Project\\wisEatApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-af\\values-af.xml",
+            "outputFile": "D:\\Android Studio Projects\\wisEatApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-af\\values-af.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\netab\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-10.2.1.aar\\da22899cc67d984d0ff3033d6b98cb6b\\res\\values-af\\values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "285",
-                        "endColumns": "201",
-                        "endOffsets": "486"
-                    },
-                    "to": {
-                        "startLines": "51",
-                        "startColumns": "4",
-                        "startOffsets": "5072",
-                        "endColumns": "201",
-                        "endOffsets": "5269"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\netab\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\25fc30b9d83871bd3664ef5eb7d6c477\\res\\values-af\\values-af.xml",
+                    "source": "C:\\Users\\Neta\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\c11bcec92dfe57b1c2c7de33ab72d8e2\\res\\values-af\\values-af.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -38,24 +21,24 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\netab\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-10.2.1.aar\\51e81ad550e9307181742286db7b3f91\\res\\values-af\\values.xml",
+                    "source": "C:\\Users\\Neta\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-10.2.1.aar\\eb945a87e01706371da014e3fe409dbc\\res\\values-af\\values.xml",
                     "from": {
-                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
-                        "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
-                        "startOffsets": "283,388,576,700,808,1017,1137,1264,1489,1595,1783,1908,2106,2286,2378,2467",
-                        "endColumns": "104,187,123,107,208,119,126,224,105,187,124,197,179,91,88,103",
-                        "endOffsets": "387,575,699,807,1016,1136,1263,1488,1594,1782,1907,2105,2285,2377,2466,2570"
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "285",
+                        "endColumns": "201",
+                        "endOffsets": "486"
                     },
                     "to": {
-                        "startLines": "44,45,46,47,48,49,50,52,53,54,55,56,57,58,59,60",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "4071,4180,4368,4496,4608,4817,4941,5274,5499,5609,5797,5926,6124,6308,6404,6497",
-                        "endColumns": "108,187,127,111,208,123,130,224,109,187,128,197,183,95,92,107",
-                        "endOffsets": "4175,4363,4491,4603,4812,4936,5067,5494,5604,5792,5921,6119,6303,6399,6492,6600"
+                        "startLines": "51",
+                        "startColumns": "4",
+                        "startOffsets": "5072",
+                        "endColumns": "201",
+                        "endOffsets": "5269"
                     }
                 },
                 {
-                    "source": "C:\\Users\\netab\\.gradle\\caches\\transforms-1\\files-1.1\\facebook-android-sdk-4.20.0.aar\\cc894dde47a9cb3b1054c23f395e78e9\\res\\values-af\\values-af.xml",
+                    "source": "C:\\Users\\Neta\\.gradle\\caches\\transforms-1\\files-1.1\\facebook-android-sdk-4.20.0.aar\\af0c2fe5147e984756d6ef2b28d82ad9\\res\\values-af\\values-af.xml",
                     "from": {
                         "startLines": "2,3,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -71,6 +54,23 @@
                         "endLines": "21,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,61",
                         "endColumns": "150,23,124,93,66,70,59,75,73,97,91,73,73,82,98,63,63,183,76,84,92,125,60",
                         "endOffsets": "2166,2286,2411,2505,2572,2643,2703,2779,2853,2951,3043,3117,3191,3274,3373,3437,3501,3685,3762,3847,3940,4066,6661"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Neta\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-10.2.1.aar\\5743cc6eab51e78e985b9b0e1f62d651\\res\\values-af\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
+                        "startOffsets": "283,388,576,700,808,1017,1137,1264,1489,1595,1783,1908,2106,2286,2378,2467",
+                        "endColumns": "104,187,123,107,208,119,126,224,105,187,124,197,179,91,88,103",
+                        "endOffsets": "387,575,699,807,1016,1136,1263,1488,1594,1782,1907,2105,2285,2377,2466,2570"
+                    },
+                    "to": {
+                        "startLines": "44,45,46,47,48,49,50,52,53,54,55,56,57,58,59,60",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "4071,4180,4368,4496,4608,4817,4941,5274,5499,5609,5797,5926,6124,6308,6404,6497",
+                        "endColumns": "108,187,127,111,208,123,130,224,109,187,128,197,183,95,92,107",
+                        "endOffsets": "4175,4363,4491,4603,4812,4936,5067,5494,5604,5792,5921,6119,6303,6399,6492,6600"
                     }
                 }
             ]
